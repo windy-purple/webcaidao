@@ -1,0 +1,28 @@
+body {background-color:black;color:#907b7b;}
+.setwidth {display:inline-block;width: 18%;border: 1px dotted #FFF;padding: 5px;margin-right: 1px;margin-bottom: 15px;height: 18px;cursor: hand;text-align:center;}
+#setwidth_1 {display:inline-block;width:150px;border:2px dotted #FFF;padding:5px;margin-right:3px;margin-bottom:15px;height:25px;cursor:hand;text-align:center;}
+.clo {background-color:black;color:white;width:1350px;height:30px;font-size:20px;margin-right:3px;}
+.buttoncss {background-color:black;color:white;width:100px;height:30px;font-size:15px;}
+.settable {width:1450px;height:600px;cursor:hand;}
+.setinput {background-color:black;color:white;}
+#d2 {width:80%;height:600px;}
+#settable_1 {cursor:hand;width:400px;height:50px;text-align:center;}
+#settable_2 {cursor:hand;width:1400px;}
+.b {background-color:black;cursor:hand;color:#907b7b;}
+#d3 {float:left;}
+#i3 {background-color:black;color:#907b7b;margin-left:30px;padding:10px}
+#d1 {float:left;}
+#b3 {background-color:black;cursor:hand;color:#907b7b;margin-left:30px;padding:8px}
+.i4 {background-color:black;color:#907b7b;}
+#i5 {background-color:black;color:#907b7b;}
+#d4 {width:10%;text-align:right;}
+#d5 {width:90%}
+#v1 {width:100%;}
+#t2 {width:70%;}
+#i5 {width:30%;}
+#t1 {width:100%;text-align:center;}
+#i6 {background-color:black;color:#907b7b;}
+#upload {background-color:black;color:#907b7b;height:30px;font-size:20px;margin-right:10px;}
+#b6 {background-color:black;cursor:hand;color:#907b7b;height:30px;font-size:15px;}
+#upload_flag {height:40px;}
+#mark {height:40px;}
